@@ -2,4 +2,4 @@
 Cybersecurity challenges from pwn.college
 
 
-## Each Repo has its README file
+## Each Repo has its own README file
